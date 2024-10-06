@@ -1,0 +1,26 @@
+/* jjhjk */
+.classfirst{
+  color: red;
+}
+.classsecond{
+  color: blue;
+}
+#firstid{
+  color: green;
+}
+#secondid{
+  color: orange;
+  background-color: grey;
+}
+#thirdid{
+  color: skyblue;
+}
+#forthid{
+  color: purple;
+}
+#fifthid{
+  text-decoration: underline;
+}
+/* *{
+  color: green;
+} */

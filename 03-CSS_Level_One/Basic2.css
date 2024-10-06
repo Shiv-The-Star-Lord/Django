@@ -1,0 +1,22 @@
+/* kfaljd */
+
+
+
+body{
+  background: url(https://images.unsplash.com/photo-1507525428034-b723cf961d3e?fm=jpg&q=60&w=3000&ixlib=rb-4.0.3);
+  border-color: blue;
+  background-color: gray;
+}
+
+div{
+  background: red;
+  border-width: 3px;
+  border-style: double;
+}
+p{
+  color: yellow;
+}
+span{
+  background: red;
+  color: black;
+}
